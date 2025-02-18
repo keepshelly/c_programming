@@ -1,0 +1,11 @@
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/background/CMakeFiles/background.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/background/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/background/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/pipes/CMakeFiles/pipes.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/pipes/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/pipes/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/src/CMakeFiles/main.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/keepshelly/Desktop/Programming/lab12/task1/build1/src/CMakeFiles/rebuild_cache.dir
